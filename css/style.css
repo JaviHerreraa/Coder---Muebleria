@@ -142,6 +142,6 @@ body{
     align-items: center;
 }
 
-body{
-    background: linear-gradient(black, rgb(123, 122, 122));
+body {
+    background: linear-gradient (black, rgb(111, 110, 110))
 }
