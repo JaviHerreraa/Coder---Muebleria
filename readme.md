@@ -1,2 +1,2 @@
-## Mi proyecto de desarrolo WEB
-# Proyecto: Muebleria
+# Mi proyecto de desarrolo WEB
+## Proyecto: Muebleria
