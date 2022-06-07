@@ -141,3 +141,7 @@ body{
     justify-items: center;
     align-items: center;
 }
+
+body{
+    background: linear-gradient(rgb(47, 47, 47), rgb(157, 156, 156));
+}
